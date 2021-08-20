@@ -1,10 +1,11 @@
 ---
 label: Theme configuration
-hide_body: true
+hide_body: false
+display_field: site_name
 fields:
 - type: text
   name: site_name
-  label: Site name
+  label: IDK what I am doing
 - type: textarea
   name: site_description
   label: Site description
